@@ -1,0 +1,14 @@
+input {
+ text-align: center;
+ width: 20%;
+ display: block;
+ box-sizing: border-box;
+ border: 5px dotted navy;
+ border-radius: 6px;
+}
+
+label {
+ text-align: center;
+ width: 30%;
+ display: block;
+}
