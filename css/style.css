@@ -1,6 +1,6 @@
 input {
  text-align: center;
- width: 20%;
+ width: 15%;
  display: block;
  box-sizing: border-box;
  border: 5px dotted navy;
@@ -9,6 +9,6 @@ input {
 
 label {
  text-align: center;
- width: 30%;
+ width: 10%;
  display: block;
 }
