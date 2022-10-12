@@ -3,10 +3,13 @@
  <title>Project 1</title>
  <meta charset="utf-8"/>
 </html>
-<body>
+<>
  <h1>Welcome to the open-source signup page!!!</h1>
  <label for="email">Email</label>
- <input type="email" name="email"/>
- <label for="password">password</label>
+ <input type="email" name="email" pattern="^.+@.+$"/>
+ <label for="password">Password</label>
  <input type="password" name="password"/>
+ <label for="date">Date of Birth</label>
+ <input type="date" name="date">
+ <input type="submit" name="Submit"/>
 </body>
