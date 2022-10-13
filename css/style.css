@@ -38,11 +38,6 @@ input {
   clear: right;
   margin: 5px 5px;
  }
- 
- li {
-  float: right;
-  clear: right;
- }
 
  input {
   width: 45%;
@@ -63,11 +58,6 @@ input {
   float: right;
   clear: right;
   margin: 5px 5px;
- }
-
- li {
-  float: right;
-  clear: right;
  }
 
  input {
