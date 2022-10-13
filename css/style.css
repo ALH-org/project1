@@ -11,6 +11,7 @@ h1{
 }
 
 label {
+ float: left;
  width: 10%;
  display: block;
  margin: 8px auto;
