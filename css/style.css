@@ -5,6 +5,10 @@
  height: auto;
 }
 
+.fontfamily{
+ font-family: white;
+}
+
 li{
  list-style: none;
 }
@@ -38,7 +42,6 @@ input {
 
 @media screen and (min-width:510px) {
  #container{
-  font: white;
   background-color: black;
   border: 5px red groove;
   width: 60%;
