@@ -59,11 +59,6 @@ input {
  }
 
  input {
-  float: right;
   width: 45%;
- }
-
- label {
-  float: right;
  }
 }
