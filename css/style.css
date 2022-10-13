@@ -8,6 +8,7 @@ h1{
 }
 
 label {
+ text-align: center;
  width: 23%;
  display: inline-block;
  margin: 8px auto;
@@ -15,7 +16,6 @@ label {
 }
 
 input {
- text-align: center;
  width: 35%;
  box-sizing: border-box;
  border: 5px red;
