@@ -36,6 +36,11 @@ input {
  border-radius: 6px;
 }
 
+#input-submit {
+ padding-left: 10px;
+ margin: 2px 2px;
+}
+
 #Halloween, #Scream, #NES{
  width: 5%;
 }
