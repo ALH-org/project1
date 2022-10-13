@@ -2,21 +2,26 @@
  text-align: center;
 }
 
+li{
+ list-style: none;
+}
+
 h1{
  text-align: center;
 }
 
-input {
- width: 35%;
+label {
+ text-align: center;
+ width: 15%;
  display: block;
+}
+
+input {
+ text-align: center;
+ width: 35%;
  margin: 8px 8px;
  padding: auto;
  box-sizing: border-box;
  border: 5px dotted navy;
  border-radius: 6px;
-}
-
-label {
- width: 15%;
- display: block;
 }
