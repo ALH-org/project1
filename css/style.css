@@ -43,6 +43,10 @@ input {
   float: right;
   width: 40%;
  }
+
+ label {
+  float: right;
+ }
 }
 
 @media screen and (min-width:720px) {
@@ -55,6 +59,11 @@ input {
  }
 
  input {
+  float: right;
   width: 45%;
+ }
+
+ label {
+  float: right;
  }
 }
