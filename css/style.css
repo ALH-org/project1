@@ -64,7 +64,6 @@ input {
 
 @media screen and (min-width:720px) {
  #container{
-  border: 5px red groove;
   width: 40%;
   float: right;
   clear: right;
