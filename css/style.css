@@ -15,6 +15,7 @@ label {
  width: 15%;
  display: block;
  margin: 8px auto;
+ text-decoration: none;
 }
 
 input {
