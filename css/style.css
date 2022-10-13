@@ -50,6 +50,8 @@ input {
 
  #Halloween, #Scream, #NES{
   width: 15%;
+  padding: 2px 2px;
+  margin: 8px 8px;
  }
 
 }
@@ -74,5 +76,7 @@ input {
 
  #Halloween, #Scream, #NES{
   width: 20%;
+  padding: 2px 2px;
+  margin: 8px 8px;
  }
 }
