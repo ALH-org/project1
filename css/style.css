@@ -20,5 +20,8 @@ input {
  box-sizing: border-box;
  border: 5px red;
  border-style: groove;
+ padding: 2px 2px;
+ margin: 2px 2px;
  border-radius: 6px;
 }
+
