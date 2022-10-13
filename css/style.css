@@ -17,8 +17,8 @@ label {
 input {
  text-align: center;
  width: 35%;
- margin: 8px 8px;
- padding: auto;
+ margin: 8px 0px 8px 0px;
+ padding: 2px 0px 2px 2px;
  box-sizing: border-box;
  border: 5px red;
  border-style: groove;
