@@ -40,6 +40,11 @@ input {
  width: 5%;
 }
 
+#input-submit {
+ text-align: center;
+}
+
+
 @media screen and (min-width:510px) {
  #container{
   background-color: black;
