@@ -35,13 +35,13 @@ input {
   border: 5px red groove;
   width: 60%;
   float: right;
-  clear: left;
+  clear: right;
   margin: 5px 5px;
  }
  
  li {
   float: right;
-  clear: left;
+  clear: right;
  }
 
  input {
@@ -55,13 +55,13 @@ input {
   border: 5px red groove;
   width: 65%;
   float: right;
-  clear: left;
+  clear: right;
   margin: 5px 5px;
  }
 
  li {
   float: right;
-  clear: left;
+  clear: right;
  }
 
  input {
