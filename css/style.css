@@ -9,11 +9,10 @@ h1{
 
 label {
  text-align: center;
- width: 5px;
+ width: 18px;
  display: inline-block;
  margin: 8px auto;
  text-decoration: none;
- border: 1px black solid;
 }
 
 input {
