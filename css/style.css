@@ -32,6 +32,7 @@ input {
 
 @media screen and (min-width:510px) {
  #container{
+  width: 60%;
   float: right;
   clear: left;
   margin: 5px 5px;
@@ -44,6 +45,7 @@ input {
 
 @media screen and (min-width:720px) {
  #container{
+  width: 65%;
   float: right;
   clear: left;
   margin: 5px 5px;
