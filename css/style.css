@@ -40,6 +40,7 @@ input {
  }
 
  input {
+  float: right;
   width: 40%;
  }
 }
