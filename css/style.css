@@ -41,6 +41,7 @@ input {
  
  li {
   float: right;
+  clear: left;
  }
 
  input {
@@ -60,6 +61,7 @@ input {
 
  li {
   float: right;
+  clear: left;
  }
 
  input {
