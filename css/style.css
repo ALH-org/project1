@@ -2,12 +2,9 @@ h1{
  text-align: center;
 }
 
-ol {
- text-align: center;
-}
+
 
 input {
- text-align: center;
  width: 35%;
  display: block;
  margin: 8px 8px;
@@ -18,7 +15,6 @@ input {
 }
 
 label {
- text-align: center;
  width: 15%;
  display: block;
 }
