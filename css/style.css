@@ -33,7 +33,7 @@ input {
 @media screen and (min-width:510px) {
  #container{
   border: 5px red groove;
-  width: 60%;
+  width: 50%;
   float: right;
   clear: left;
   margin: 5px 5px;
