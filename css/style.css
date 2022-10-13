@@ -38,6 +38,10 @@ input {
   clear: left;
   margin: 5px 5px;
  }
+ 
+ li {
+  float: right;
+ }
 
  input {
   width: 40%;
@@ -52,6 +56,10 @@ input {
   float: right;
   clear: left;
   margin: 5px 5px;
+ }
+
+ li {
+  float: right;
  }
 
  input {
