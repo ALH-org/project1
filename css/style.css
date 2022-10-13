@@ -30,3 +30,26 @@ input {
  width: 5%;
 }
 
+@media screen and (min-width:510px) {
+ #container{
+  float: right;
+  clear: left;
+  margin: 5px 5px;
+ }
+
+ input {
+  width: 40%;
+ }
+}
+
+@media screen and (min-width:720px) {
+ #container{
+  float: right;
+  clear: left;
+  margin: 5px 5px;
+ }
+
+ input {
+  width: 45%;
+ }
+}
