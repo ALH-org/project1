@@ -1,8 +1,10 @@
-h1{
+#NES, #Scream, #Halloween, #input-email, #input-date {
  text-align: center;
 }
 
-
+h1{
+ text-align: center;
+}
 
 input {
  width: 35%;
