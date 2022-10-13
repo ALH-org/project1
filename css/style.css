@@ -9,10 +9,6 @@
  color: white;
 }
 
-li{
- list-style: none;
-}
-
 h1{
  text-align: center;
 }
@@ -37,6 +33,7 @@ input {
 }
 
 #input-submit {
+ width: 15%;
  padding-left: 15%;
  margin: 2px 2px;
 }
