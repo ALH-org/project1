@@ -16,6 +16,11 @@
  color: white;
 }
 
+h1{
+ float: left;
+ font-size: large;
+}
+
 h3{
  text-align: center;
  padding-top: 4px;
