@@ -5,6 +5,13 @@
  height: auto;
 }
 
+#container{
+ padding-top: 4px;
+ background-color: black;
+ width: 80%;
+ margin: 5px 5px;
+}
+
 .fontfamily{
  color: white;
 }
