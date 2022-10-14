@@ -5,12 +5,11 @@
  height: auto;
 }
 
-#container{
- text-align: center;
+#container {
  padding-top: 4px;
  background-color: black;
  width: 80%;
- margin: 5px 5px;
+ margin: 0 auto;
 }
 
 .fontfamily{ 
