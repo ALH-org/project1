@@ -16,6 +16,10 @@
  color: white;
 }
 
+.fontsize {
+ font-size: .30em;
+}
+
 h1{
  text-align: center;
  padding-top: 4px;
