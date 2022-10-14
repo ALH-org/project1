@@ -12,6 +12,12 @@
  margin: 0 auto;
 }
 
+#welcome-title {
+ float: left;
+ clear: left;
+ font-size: 20px;
+}
+
 .fontfamily{ 
  color: white;
 }
