@@ -1,6 +1,7 @@
-function theresults() {
- var r = document.getElementbyId('results')
- r.addEventListener('click', function(){
-  alert("Results have been recorded");
- });
+function theresults(event) {
+ r.textContent = 'Results have been taken';
+ event.preventDefault();
 }
+
+const r = document.getElementById('results');
+form.addEventListener('submit', theresults);
