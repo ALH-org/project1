@@ -19,6 +19,7 @@
 h1{
  float: left;
  font-size: large;
+ margin: 8px auto;
 }
 
 h3{
