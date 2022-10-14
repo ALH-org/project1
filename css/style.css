@@ -35,7 +35,8 @@ input {
 }
 
 #input-submit {
- float: left;
+ padding-left: 17%;
+ margin: 2px 2px;
 }
 
 #Halloween, #Scream, #NES{
