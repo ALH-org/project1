@@ -4,4 +4,4 @@ function theresults(event) {
 }
 
 const r = document.getElementById('results');
-form.addEventListener('submit', theresults);
+r.addEventListener('submit', theresults); 
