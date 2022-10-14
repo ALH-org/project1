@@ -1,8 +1,5 @@
 function theresults(event) {
- var r = document.getElementById('container')
- r.addEventListener('submit', function(){
+ $('results').on('click', function(){
   alert("Results have been taken.");
-});
- event.preventDefault();
+ });
 }
-window.addEventListener('submit', theresults)
