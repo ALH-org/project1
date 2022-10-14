@@ -1,6 +1,7 @@
 function theresults(event) {
  alert('Results have been taken.')
+ event.preventDefault();
 }
 
 var r = document.getElementById('results');
-r.addEventListener('click', theresults);
+r.addEventListener('submit', theresults);
