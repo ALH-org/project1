@@ -13,9 +13,16 @@
  padding: 3px 3px;
 }
 
-#results {
- 
+#input-submit {
+ padding-left: 17%;
+ margin: 2px 2px;
 }
+
+#Halloween, #Scream, #NES{
+ width: 5%;
+}
+
+#results {}
 
 .fontfamily{ 
  font-family: 'Creepster', cursive;
@@ -55,15 +62,6 @@ input {
  padding: 8px 8px;
  margin: 12px 12px;
  border-radius: 6px;
-}
-
-#input-submit {
- padding-left: 17%;
- margin: 2px 2px;
-}
-
-#Halloween, #Scream, #NES{
- width: 5%;
 }
 
 @media screen and (min-width:510px) {
