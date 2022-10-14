@@ -5,4 +5,4 @@ function theresults(event) {
 });
  event.preventDefault();
 }
-window.addEventListener('load', theresults)
+window.addEventListener('submit', theresults)
