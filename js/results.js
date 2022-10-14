@@ -1,5 +1,6 @@
 function theresults(event) {
- $('results').on('click', function(){
-  alert("Results have been taken.");
- });
+ alert('Results have been taken.')
 }
+
+var r = document.getElementById('results');
+r.addEventListener('click', theresults);
