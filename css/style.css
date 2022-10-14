@@ -79,7 +79,7 @@ input {
 
 }
 
-@media screen and (min-width:800px) {
+@media screen and (min-width:840px) {
  #container{
   width: 40%;
   float: right;
