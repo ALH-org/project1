@@ -94,8 +94,6 @@ input {
 @media screen and (min-width:840px) {
  #container{
   width: 40%;
-  float: right;
-  clear: right;
   margin: 2% 2%;
  }
 
