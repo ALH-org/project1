@@ -79,6 +79,10 @@ input {
   width: 60%;
  }
 
+ #scary {
+  width: 30%;
+ }
+
  input {
   width: 45%;
  }
@@ -99,6 +103,8 @@ input {
  #container{
   width: 40%;
  }
+ #scary {
+  width: 20%;
 
  input {
   width: 50%;
