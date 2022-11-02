@@ -79,6 +79,11 @@ input {
   width: 60%;
  }
 
+ scary{
+ width: 40%;
+ height: 10%;
+ }
+
  input {
   width: 45%;
  }
@@ -98,6 +103,11 @@ input {
 @media screen and (min-width:840px) {
  #container{
   width: 40%;
+ }
+
+ #scary{
+ width: 40%;
+ height: 10%;
  }
 
  input {
