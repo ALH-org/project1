@@ -5,6 +5,10 @@
  height: auto;
 }
 
+#scary {
+ margin: auto;
+}
+
 #container {
  border-radius: 5%;
  padding-top: 4px;
