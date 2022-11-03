@@ -38,7 +38,7 @@
 }
 
 .fontsize {
- font-size: .50em;
+ font-size: .512rem;
 }
 
 h1{
@@ -95,7 +95,7 @@ input {
  }
 
  .fontsize {
-  font-size: .80em;
+  font-size: .80rem;
  }
 
 }
@@ -121,6 +121,6 @@ input {
  }
 
  .fontsize {
-  font-size: 1em;
+  font-size: 1rem;
  }
 }
