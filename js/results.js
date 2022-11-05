@@ -1,7 +1,6 @@
-function theresults(event) {
- alert('Results have been taken.')
- event.preventDefault();
+function required() {
+ if(document.getElementById('first').value == "" || document.getElementById('last').value == "" || document.getElementById('input-email').value == ""){
+  alert('Please enter your information');
+  return false;
+ }
 }
-
-var r = document.getElementById('results');
-r.addEventListener('submit', theresults);

@@ -1,3 +1,6 @@
+/* Used major third modular scale*/
+#first, #last{}
+
 #body-background{
  background-image: url(../images/scarymansion.png);
  background-repeat: repeat-y;

@@ -13,16 +13,16 @@
   </head>
   <body id="body-background" class="fontfamily">
     <img src="images/200.gif" alt="scary-gif" id="scary">
-    <form id="container" method="get" action="#null" autocomplete="on">
+    <form id="container" method="get" action="#null" onsubmit="return required" autocomplete="on">
       <h1>Favorite Slasher Films</h1>
       <ol>
         <li>
           <label for="input-first">First Name:</label>
-          <input type="text" name="First" class="fontsize"/>
+          <input type="text" id="first" name="First" class="fontsize"/>
         </li>
         <li>
           <label for="input-last">Last Name:</label>
-          <input type="text" name="Last" class="fontsize"/>
+          <input type="text" id="last" name="Last" class="fontsize"/>
         </li>
         <li>
           <label for="input-email">Email:</label>
