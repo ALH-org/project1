@@ -48,6 +48,7 @@ h1{
 }
 
 label {
+ text-align: center;
  width: 15%;
  border: 1px;
  margin: 8px auto;
